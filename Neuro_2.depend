@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1743942185 source:c:\users\etty.desktop-b1ctq9j\desktop\neyro\testcode\neuro_2\neuro_2\main.cpp
+	<stdio.h>
+	"include/neuro.h"
+	"include/MyParser.h"
+	<iostream>
+	<iostream>
+	<vector>
+
+1743941429 c:\users\etty.desktop-b1ctq9j\desktop\neyro\testcode\neuro_2\neuro_2\include\myparser.h
+	<string>
+	<fstream>
+	<vector>
+
+1743941218 c:\users\etty.desktop-b1ctq9j\desktop\neyro\testcode\neuro_2\neuro_2\src\neuro.cpp
+	"../include/neuro.h"
+
+1743941218 c:\users\etty.desktop-b1ctq9j\desktop\neyro\testcode\neuro_2\neuro_2\include\neuro.h
+	<iostream>
+	<vector>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
+1743943758 source:c:\users\etty.desktop-b1ctq9j\desktop\neyro\testcode\neuro_2\neuro_2\src\myparser.cpp
+	<bits/stdc++.h>
+	"../include/MyParser.h"
+
+1743943742 source:c:\users\etty.desktop-b1ctq9j\desktop\neyro\testcode\neuro_2\neuro_2\src\neuro.cpp
+	"../include/neuro.h"
+
